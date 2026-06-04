@@ -1,2 +1,0 @@
-"This is the new file ,which will push to my remote repo"
-"Adding new line to check log"
